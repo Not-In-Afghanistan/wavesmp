@@ -48,3 +48,9 @@ body {
     margin: 20px 0px;
     border-radius: 10px;
 }
+#spawnmap {
+    margin: 20px 0px;
+    border-radius: 10px;
+    width: 90%;
+    height: auto;
+}
